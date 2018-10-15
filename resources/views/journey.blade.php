@@ -2,9 +2,7 @@
 
 @section('title', 'Catarina Machado')
 
-@section('ajust')
-	style="width: 98%"
-@endsection
+@section('ajust', 'style="width: 98%"')
 
 @section('header')
 	<h1>JOURNEY</h1>
